@@ -1,0 +1,2 @@
+# bet2slot
+Jackpot
